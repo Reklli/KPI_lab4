@@ -1,0 +1,14 @@
+D:\Study C#\KPI_lab_4\lab_4\lab_4\bin\Debug\net10.0\ParkingSystem.exe
+D:\Study C#\KPI_lab_4\lab_4\lab_4\bin\Debug\net10.0\ParkingSystem.deps.json
+D:\Study C#\KPI_lab_4\lab_4\lab_4\bin\Debug\net10.0\ParkingSystem.runtimeconfig.json
+D:\Study C#\KPI_lab_4\lab_4\lab_4\bin\Debug\net10.0\ParkingSystem.dll
+D:\Study C#\KPI_lab_4\lab_4\lab_4\bin\Debug\net10.0\ParkingSystem.pdb
+D:\Study C#\KPI_lab_4\lab_4\lab_4\obj\Debug\net10.0\ParkingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study C#\KPI_lab_4\lab_4\lab_4\obj\Debug\net10.0\ParkingSystem.AssemblyInfoInputs.cache
+D:\Study C#\KPI_lab_4\lab_4\lab_4\obj\Debug\net10.0\ParkingSystem.AssemblyInfo.cs
+D:\Study C#\KPI_lab_4\lab_4\lab_4\obj\Debug\net10.0\ParkingSystem.csproj.CoreCompileInputs.cache
+D:\Study C#\KPI_lab_4\lab_4\lab_4\obj\Debug\net10.0\ParkingSystem.dll
+D:\Study C#\KPI_lab_4\lab_4\lab_4\obj\Debug\net10.0\refint\ParkingSystem.dll
+D:\Study C#\KPI_lab_4\lab_4\lab_4\obj\Debug\net10.0\ParkingSystem.pdb
+D:\Study C#\KPI_lab_4\lab_4\lab_4\obj\Debug\net10.0\ParkingSystem.genruntimeconfig.cache
+D:\Study C#\KPI_lab_4\lab_4\lab_4\obj\Debug\net10.0\ref\ParkingSystem.dll
